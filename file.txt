@@ -1,2 +1,3 @@
-my first line
+my first line in my first file
 my second line, for good
+this is he third line
